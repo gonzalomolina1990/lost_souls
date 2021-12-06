@@ -1,0 +1,41 @@
+body{
+    background: rgb(22,0,74);
+    background: radial-gradient(circle, rgba(22,0,74,1) 48%, rgba(5,0,17,1) 61%, rgba(5,0,17,1) 100%);
+    color: white;
+    font-family: 'Bogle', sans-serif;
+
+}
+
+
+.white{
+    background-color: aqua;
+}
+
+#myVideo {
+    left: 0;
+    top: 0;
+    max-width: 100%;
+    text-align: center;
+
+
+  }
+
+  .main-video{
+      background-color: black;
+
+  }
+
+  h2{
+      text-align: center;
+      padding:15px;
+  }
+
+  .navbar {
+      background-color: rgba(0,0,0,0) !important;
+  }
+
+  .nav-item, .nav-link, .navbar-toggler-icon {
+    color: white !important;
+  }   
+
+  
