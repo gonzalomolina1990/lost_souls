@@ -11,6 +11,10 @@ body{
     background-color: aqua;
 }
 
+.mtDivs{
+    margin-top: 80px;
+}
+
 #myVideo {
     left: 0;
     top: 0;
@@ -38,4 +42,6 @@ body{
     color: white !important;
   }   
 
-  
+  footer{
+    background-color: rgba(5,0,17,1);   
+  }
